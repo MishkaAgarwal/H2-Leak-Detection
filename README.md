@@ -51,7 +51,6 @@ A gas-monitoring system that uses gas sensors and an ESP32 microcontroller to de
 
 ## Important wiring notes
 
-- The source document does not specify the OLED's VCC and GND connections or the buzzer's negative connection. Check the labels and requirements of your actual modules before wiring them.
 - MQ sensor modules are commonly powered at 5V. Their analogue output voltage must be kept within the ESP32's permitted input range. Check your exact module and use an appropriate voltage divider or level shifter if needed before connecting the output to GPIO 34 or GPIO 35.
 - Connect all modules to a common ground.
 - The diagram is an illustrative reference. Verify the actual module pin labels and your circuit before powering it.
