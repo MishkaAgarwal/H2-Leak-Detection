@@ -44,6 +44,8 @@ A gas-monitoring system that uses gas sensors and an ESP32 microcontroller to de
 | ESP32 5V | Breadboard positive |
 | ESP32 GND | Breadboard negative |
 | Buzzer positive | Pin 25 (ESP32) |
+| OLED VCC | Breadboard positive |
+| OLED GND | Breadboard negative |
 | OLED SCL/SCK | Pin 22 (ESP32) |
 | OLED SDA | Pin 21 (ESP32) |
 
