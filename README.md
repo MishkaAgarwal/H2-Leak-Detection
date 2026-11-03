@@ -6,7 +6,7 @@ To detect the presence of hydrogen gas and monitor changes in air quality, with 
 
 ## What is the project?
 
-A gas-monitoring system that uses gas sensors and an ESP32 microcontroller to detect changes in gas concentration and send readings to a connected device.
+A gas monitoring system that uses gas sensors and an ESP32 microcontroller to detect changes in gas concentration and send readings to a connected device.
 
 ## How does it work?
 
